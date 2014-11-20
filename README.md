@@ -1,4 +1,3 @@
 XSLideShow
 ==========
-
-A free DotNetNuke module to publish photo-galleries / slideshows. 
+XSLideShow is an XsltDb DotNetNuke Module to build image galleries or photo slideshows, built with XsltDb and jQuery.
